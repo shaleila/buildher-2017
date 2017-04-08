@@ -52,6 +52,27 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
+.reality-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.need-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.app-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
 .contact-section {
     height: 100%;
     padding-top: 150px;
